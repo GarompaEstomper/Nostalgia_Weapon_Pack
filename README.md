@@ -21,7 +21,7 @@ CREDITS (sorry if I missed someone or made a mistake, please let me know!):
 
 - Desert Eagle: vashts1985, Thanez, el maestro de graffiti, Millenia, Poux, Sh1fty, AleKK (Original compiler), tigg, Norman, DNIO071, Ambient.Impact, toadie2k4, IIopn, Mr. Brightside, -:Steve-o:-, Strelok, Vunsunta, Engineer, KernCore, cR45h (source: https://gamebanana.com/skins/157113 )
 
-- Displacer: H4wk + End Of Days + Editor321 (original model), MOD HACK studio + Nekronaium + Trusty Crowbar (modified version), Diamond D, r1ch4rd, LeonelC, RavenGT, Ataky (source: https://gamebanana.com/skins/154713 )
+- Displacer: H4wk + End Of Days + Editor321 (original model), MOD HACK studio + Nekronaium + Trusty Crowbar (modified version), Diamond D, r1ch4rd, LeonelC, RavenGT, Ataky (source: https://gamebanana.com/skins/154713 ),  reanimated by LilPif
 
 - Egon: The Sven Co-op team
 
