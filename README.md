@@ -78,6 +78,7 @@ And:
 - QuakerCraft (shotgun sprite)
 - Suparsonik (for weapon models)
 - And obviously the Sven Co-op team, the Sven Co-op discord community, Valve and Gearbox.
+- Lilpif (several reanimations: m16, spore launcher, crowbar, wrench)
 
 Hud Credits:
 - Garompa
