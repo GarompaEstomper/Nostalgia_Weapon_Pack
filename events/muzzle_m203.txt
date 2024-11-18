@@ -1,0 +1,10 @@
+attachment 1
+bone 48
+offset 0.000000 15.000000 0.000000
+spritename sprites/SGFlash.spr 
+scale  10
+colorR 255
+colorB 255
+colorG 255
+rendermode 5
+transparency 255

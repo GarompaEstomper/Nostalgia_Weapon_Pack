@@ -1,0 +1,10 @@
+attachment 0
+//bone 9
+//offset -1.500000 -8.000000 0.000000
+spritename sprites/muzzleflash_glock.spr
+scale  15
+colorR 255
+colorB 255
+colorG 255
+rendermode 5
+transparency 255
