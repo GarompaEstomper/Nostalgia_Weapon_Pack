@@ -3,8 +3,7 @@ for Sven Co-op 5.x - modified by Garompa, as of 14/09/2024
 
 ## Preview
 
-- [Youtube](https://www.youtube.com/watch?v=imxb3fnaaKo)
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/VIDEO_ID](https://www.youtube.com/embed/imxb3fnaaKo?si=XEHKADVaZXMtbq1w)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Youtube](https://img.youtube.com/vi/imxb3fnaaKo/maxresdefault.jpg)](https://www.youtube.com/watch?v=imxb3fnaaKo)
 
 ## Links
 - [Discord](https://discord.com/channels/170051548284583937/1307932173390843954)
