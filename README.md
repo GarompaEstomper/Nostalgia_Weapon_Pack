@@ -1,13 +1,16 @@
- "Sven Co-op Nostalgia Weapons pack" = for Sven Co-op 5.x - modified by Garompa
-- as of 14/09/2024 -
-===========================================================================
+# Sven Co-op Nostalgia Weapons pack 
+for Sven Co-op 5.x - modified by Garompa, as of 14/09/2024
 
-Youtube: https://www.youtube.com/watch?v=imxb3fnaaKo
+## Preview
 
-Discord: https://discord.com/channels/170051548284583937/1307932173390843954
-ModDB: https://www.moddb.com/mods/sven-co-op/addons/nostalgia-weapons-pack#downloadsform
-GoogleDrive: https://drive.google.com/file/d/1LB7LSweNudyFoZqZxFOpj8UHFo4rqql0/view?usp=drive_link
+[![Youtube](https://img.youtube.com/vi/imxb3fnaaKo/0.jpg)](https://www.youtube.com/watch?v=imxb3fnaaKo)
 
+## Links
+- [Discord](https://discord.com/channels/170051548284583937/1307932173390843954)
+- [ModDB](https://www.moddb.com/mods/sven-co-op/addons/nostalgia-weapons-pack#downloadsform)
+- [GoogleDrive](https://drive.google.com/file/d/1LB7LSweNudyFoZqZxFOpj8UHFo4rqql0/view?usp=drive_link)
+
+## Description
 
 Nostalgia Weapons contains replacements to all the default weapons, with colorable Sven Hands, that resemble their old low-definition original Half-Life designs.
 For example: M16 is now the M727 from Blue Shift, and in a true HD form.  
@@ -16,9 +19,7 @@ For example: M16 is now the M727 from Blue Shift, and in a true HD form.
 An important design detail was deciding which mp5 to work with. Half-Life original models have both the MP5SD silenced for viewmodel, and the MP5A2 for world and player models... And since Sven Co-op uses the un-silenced MP5 sounds for many things like the player mp5, turrets, sentry, and npcs... I couldn't change that into a silenced sound as it would not make sense or overall conflict with eachother, and conflict with any other custom mp5 model from any map out there, and it would also made less sense from Valve if the only MP5SD was present as the viewmodel while the rest of the models were MP5A2 everywhere (damn it Valve)... so the MP5 was decided to be the MP5A2 in its full HD form with the special grip as leaked textures showed.
 
 
-
-CREDITS (sorry if I missed someone or made a mistake, please let me know!):
-===========================================================================
+## Credits (sorry if I missed someone or made a mistake, please let me know!):
 
 
 - Crossbow: The Sven Co-op team, Red Slug, Stoke, Ambient.Impact, t3hH4wK (source: https://gamebanana.com/skins/49397 )
@@ -75,6 +76,7 @@ CREDITS (sorry if I missed someone or made a mistake, please let me know!):
 
 - Uzi: DNIO071 (animation fix), The Sven Co-op team
 
+---
 
 And:
 - AleKK (for much help, recovering credits, and original compiles of some weapons)
@@ -85,6 +87,8 @@ And:
 - Suparsonik (for weapon models)
 - And obviously the Sven Co-op team, the Sven Co-op discord community, Valve and Gearbox.
 - Lilpif (several reanimations: m16, spore launcher, crowbar, wrench)
+
+---
 
 Hud Credits:
 - Garompa
