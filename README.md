@@ -1,6 +1,12 @@
-# == "Sven Co-op Nostalgia Weapons pack" == for Sven Co-op 5.x -- modified by Garompa
+ "Sven Co-op Nostalgia Weapons pack" = for Sven Co-op 5.x - modified by Garompa
 - as of 14/09/2024 -
 ===========================================================================
+
+Youtube: https://www.youtube.com/watch?v=imxb3fnaaKo
+
+Discord: https://discord.com/channels/170051548284583937/1307932173390843954
+ModDB: https://www.moddb.com/mods/sven-co-op/addons/nostalgia-weapons-pack#downloadsform
+GoogleDrive: https://drive.google.com/file/d/1LB7LSweNudyFoZqZxFOpj8UHFo4rqql0/view?usp=drive_link
 
 
 Nostalgia Weapons contains replacements to all the default weapons, with colorable Sven Hands, that resemble their old low-definition original Half-Life designs.
